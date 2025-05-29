@@ -1,0 +1,112 @@
+1 -------diferença-------
+Q1 - Escreva um algoritmo que calcule a diferença de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença desses números;
+
+Q2 - Escreva um algoritmo que calcule a diferença de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a diferença desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule a diferença deles e mostre o resultado.
+
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a diferença de 'a' menos 'b';
+    3. Mostre [diferença].
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a diferença = [a] - [b];
+    3. Mostre o resultado dessa diferença.
+
+    Refinando o 'código':
+
+    1. Ler [a];  # read [a]  scan[a] input[a]
+    2.Ler [b];
+    3.[diferença] = [a] - [b];
+    4. Mostre [diferença].  print [diferença]    show [diferença]     output [diferença]
+    
+2 ------produto-------
+
+Q1 - Escreva um algoritmo que calcule o produto de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a produto desses números;
+
+Q2 - Escreva um algoritmo que calcule o produto de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo o produto desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule o produto deles e mostre o resultado.
+
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' multiplicado por 'b';
+    3. Mostre [produto].
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o produto = [a] * [b];
+    3. Mostre o resultado dessa produto.
+
+    Refinando o 'código':
+
+    1. Ler [a];  # read [a]  scan[a] input[a]
+    2.Ler [b];
+    3.[produto] = [a] * [b];
+    4. Mostre [produto].  print [produto]    show [produto]     output [produto]
+
+3 ------quociente-------
+
+Q1 - Escreva um algoritmo que calcule o quociente de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a quociente desses números;
+
+Q2 - Escreva um algoritmo que calcule o quociente de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a produto desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e  'b', cacule o quociente deles e mostre o resultado.
+
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o quociente de 'a' dividido por 'b';
+    3. Mostre [quociente].
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o quociente = [a] / [b];
+    3. Mostre o resultado desse quociente.
+
+    Refinando o 'código':
+
+    1. Ler [a];  # read [a]  scan[a] input[a]
+    2.Ler [b];
+    3.[quociente] = [a] / [b];
+    4. Mostre [quociente].  print [quociente]    show [quociente]     output [quociente]
