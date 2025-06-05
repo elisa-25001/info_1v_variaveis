@@ -1,1 +1,142 @@
+ Q1- Ler dois números inteiros, somar os dois valores e exibir o resultado da soma.
+
+Refinada:
+ 1-Leia [a] e [b];
+ 2-Calcule a soma = [a] + [b];
+ 3-Mostra [soma].
+
+Q2- Ler três números reais, calcular a média aritmética e exibir o resultado da média.
+
+Refinada:
+  1-Leia [a] , [b] e [a];
+  2-Calcule a média = ([a] + [b] + [a]) / 3;
+  3-Mostra [média].
+
+Q3- Ler a base e a altura de um retângulo, calcular a área e exibir o resultado da aréa.
+
+Refinada:
+ 1-Leia [a] e [b];
+ 2-Calcule a área = [a] × [b];
+ 3- Mostra [área]. 
+
+Q4- Ler a base e a altura de um triângulo, calcular a área e exibir o resultado da aréa.
+
+Refinada:
+  1-Leia [a], [b];
+  2-Calcule a área = ([a] × [b]) / 2;
+  3- Mostra [área].
+
+Q5- Ler uma temperatura em Celsius, converter para Fahrenheit e exibir o resultado da conversão.
+
+Refinada:
+   1-Leia [a]
+   2-Calcule o f = (9 × [a] + 160) / 5
+   3-Mostra [conversão].
+
+Q6- Ler três notas e seus respectivos pesos, calcular a média ponderada e exibir o resultado da média.
+
+Refinada:
+    1-Leia [a1], [b1
+    2-Leia [a2], [b2]
+    3-Leia [a3], [b3]
+    4-Calcule a média = ([a1] × [b1] + [a2] × [b2] + [a3] × [b3]) / ([b1] + [b2] + [b3])
+    5-Mostra [média].
+
+Q7- Ler o comprimento, a largura e a altura de uma caixa, calcular o volume e exibir o resultado do volume.
+
+Refinada:
+     1-Leia [a], [b], [a]
+     2-Calcule o volume = [a] × [b] × [a]
+     3-Mostra [volume].
+
+Q8-Ler o preço de três produtos, somar os valores e exibir o resultado da soma.
+
+Refinada:
+     1-Leia [a], [b] e [a]
+     2-calcule o total = [a] + [b] + [a]
+     3-Mostra [soma].
+
+Q9-Ler o tempo em horas e a velocidade média, calcular a distância e o tempo em minutos, e exibir os resultados.
+
+Refinada:
+     1-Leia [a] e [b]
+     2-Calcule a distância = [a] × [b]
+     3-Calcule o  tempo = [a] × 60
+     4-Mostra [distância e tempo].
+
+Q10-Ler a quantidade de dias, converter para horas e exibir o resultado.
+
+Refinada:
+     1-Leia [a]
+     2-Calcule as horas = [a] × 24
+     3-Mostra [horas].
+
+Q11-Ler uma quantidade de minutos, converter para segundos e exibir o resultado.
+
+Refinada:
+     1-Leia [a]
+     2-Calcule os segundos = [a] × 60
+     3-Mostra [segundos].
+ 
+Q12-Ler o salário atual e o aumento fixo, calcular o novo salário e exibir o resultado.
+
+Refinada:
+     1-Leia [a] e [b]
+     2-Calcule o novo = [a] + [b]
+     3-Mostra [novo]. 
+
+Q13-Ler o capital, taxa de juros mensal e tempo, calcular o montante com juros simples e exibir o resultado.
+
+Refinada:
+     1-Leia [a], [b] e [a]
+     2-Calcule o montante = [a] + ([a] × [b] × [a])
+     3-Mostra [montante].
+
+Q14-Ler o valor da compra e o valor pago, calcular o troco e exibir o resultado.
+
+Refinada:
+     1-Leia [a] e [b]
+     2-Calcule o troco = [b] - [a]
+     3-Mostra [troco]
+
+Q15-Ler o peso e a altura, calcular o IMC e exibir o resultado.
+
+Refinada:
+     1-Leia [a] e [b]
+     2-Calcule o imc = [a] / ([b] × [b])
+     3-Mostra [imc]
+
+Q16-Ler o raio de um círculo, calcular o perímetro e exibir o resultado.
+
+Refinada:
+    1-Leia [a]
+    2-Calcule o p = 2 × 3.14 × [a]
+    3-Mostra [p] 
+
+Q17-Ler duas idades, calcular a diferença entre elas e exibir o resultado.
+
+Refinada:
+    1-Leia [a], [b]
+    2-Calcule a diferença = [a] - [b]
+    3-Mostra [diferença]
+
+Q18-Ler a distância percorrida e o combustível gasto, calcular a média de consumo e exibir o resultado.
+
+Refinada:
+     1-Leia [a] e [b]
+     2-Calcule o consumo = [a] / [b]
+     3-Mostra [consumo] 
+
+Q19-Ler o valor total da conta e o número de pessoas, calcular quanto cada uma deve pagar e exibir o resultado.
+
+Refinada:
+      1-Leia [a], [b]
+      2-Calcule o valor = [a] / [b]
+      3-Mostra [valor]
+Q20- Ler o valor do produto e o percentual de desconto, calcular o valor final e exibir o resultado.
+
+Refinada:
+      1-Leia [a] e [b]
+      2-Calcule o valor final = [a] - ([a] × [b] / 100)
+      3-Mostra [valor final]
 
